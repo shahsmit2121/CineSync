@@ -87,8 +87,6 @@ Once I get comfortable with Python GUI frameworks, I plan to:
 ## 🙌 Acknowledgements
 
 - **Movie Data & Images:** [TMDB](https://www.themoviedb.org/)
-- **Fonts:** Local system fonts or downloadable fonts used via Pillow
-- **System Access:** Windows `ctypes` for wallpaper management
 
 ---
 
