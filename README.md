@@ -34,10 +34,6 @@ You can easily modify:
 - **Wallpaper rotation interval:**\
   By default, wallpapers change every `5 seconds`. You can adjust this by editing the value in the script:
 
-  ```python
-  ROTATE_INTERVAL = 5  # Change this to any number of seconds
-  ```
-
 - **Genres and Regions:**\
   The script prompts you to input genre and region codes each time you run it. Example genres: Action, Drama, Sci-Fi. Example regions: US, IN, KR.
 
