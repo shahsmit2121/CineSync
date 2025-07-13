@@ -11,7 +11,7 @@ ReelWalls automatically fetches backdrops of newly released movies from **TMDB (
 > *Add your video demo here once it's ready:*
 
 ```html
-<video src="demo.mp4" controls></video>
+<video src="CineSync.mp4" controls></video>
 ```
 
 ---
